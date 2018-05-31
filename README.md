@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+//Comments to Pratima.
+1. Approach - My approach towards the class/class inheritence portion was taken because it was the primary way we did it yesterday, and also with the help and guidance of my peers.
+2. Problems I had were returning my values, given that I didn't understand how to return a value that didn't have a value(I was unaware that I needed to set the value of x and y elsewhere) and it took awhile to wrap my head around it.
